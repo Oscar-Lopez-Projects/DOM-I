@@ -192,3 +192,5 @@ const navSelect = document.getElementsByTagName('a');
 for (let i = 0; i < navSelect.length; i++) {
   navSelect[i].style.color = 'green';
 }
+
+//finished assignment :)
